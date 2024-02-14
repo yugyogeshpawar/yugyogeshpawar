@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Anshuman2121.Anshuman2121)
 
 </p>
-<div size='20px'> Hi! My name is Anshuman Abhishek. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Yogesh. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
