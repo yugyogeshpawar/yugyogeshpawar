@@ -1,4 +1,5 @@
-<div align="center">
+
+<!-- <div align="center">
 <img width="100%" height = "250px" src="https://github.com/Anshuman2121/Anshuman2121/blob/main/cover.jpg" alt="cover" />
 </div>
 
@@ -60,4 +61,4 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
-<br>
+<br> -->
